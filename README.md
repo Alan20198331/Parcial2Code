@@ -1,6 +1,6 @@
 # Parcial2Code
 Codigo del Segundo Parcial de Programacion III, Hecho por Alan E. Ramirez.
-
+Para abrir el programa de prueba, por favor utilize un programa descomprimidor como WinRar o 7zip.
 
 LINK DEL VIDEO TUTORIAL: 
 
