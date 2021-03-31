@@ -2,7 +2,7 @@
 Codigo del Segundo Parcial de Programacion III, Hecho por Alan E. Ramirez.
 Para abrir el programa de prueba, por favor utilize un programa descomprimidor como WinRar o 7zip.
 
-LINK DEL VIDEO TUTORIAL: 
+LINK DEL VIDEO TUTORIAL: https://youtu.be/CxRm0sUAbIc
 
 Links de descarga: SQLYog: https://sqlyog.en.softonic.com/download Ampps: https://ampps.com/downloads 
 
